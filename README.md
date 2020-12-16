@@ -25,7 +25,7 @@ Correlation heatmap
 ![shot1](./Resources/correlation_matrix.png)
 
 Correlation plots
-![shot1](./Resources/bokeh_plot.png)
+<img src="./Resources/bokeh_plot.png" alt="drawing" width="350"/>
 
 ## License
 
